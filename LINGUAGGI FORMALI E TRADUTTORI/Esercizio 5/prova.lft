@@ -1,0 +1,7 @@
+/*esame LFT
+progetto 
+*/ 
+read(_x);
+read(y_);
+cond when(< _x y_) do { while(< _x y_){print(_x); = _x +(1 _x)}}
+else print(y_)
